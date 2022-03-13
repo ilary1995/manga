@@ -20,6 +20,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/iLKSp8g"
       }
+    },
+    "03": {
+      "title": "Abitanti",
+      "volume": "1",
+      "last_updated": "1647187834",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hsbpETO"
+      }
+    },
+    "04": {
+      "title": "Mondo sotteraneo",
+      "volume": "1",
+      "last_updated": "1647187892",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/15aoYGQ"
+      }
     }
   }
 }
