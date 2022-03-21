@@ -5,12 +5,164 @@
   "author": "MATSUMOTO Naoya",
   "cover": "https://uploads.mangadex.org/covers/237d527f-adb5-420e-8e6e-b7dd006fbe47/1be1827f-0d16-4ce9-9e3b-ba85642d652e.jpg",
   "chapters": {
+    "10": {
+      "title": "Capitolo 10",
+      "volume": "2",
+      "last_updated": "1647843389",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/OSYkyL8"
+      }
+    },
+    "11": {
+      "title": "Capitolo 11",
+      "volume": "2",
+      "last_updated": "1647843411",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/cpZouDy"
+      }
+    },
+    "12": {
+      "title": "Capitolo 12",
+      "volume": "2",
+      "last_updated": "1647844499",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/FyDy5sv"
+      }
+    },
+    "13": {
+      "title": "Capitolo 13",
+      "volume": "2",
+      "last_updated": "1647844701",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/0XzmhpA"
+      }
+    },
+    "14": {
+      "title": "Capitolo 14",
+      "volume": "2",
+      "last_updated": "1647844820",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ilkc7HK"
+      }
+    },
+    "15": {
+      "title": "Capitolo 15",
+      "volume": "2",
+      "last_updated": "1647844828",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BuzuakF"
+      }
+    },
+    "16": {
+      "title": "Capitolo 16",
+      "volume": "2",
+      "last_updated": "1647844959",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/wkEfZKT"
+      }
+    },
+    "17": {
+      "title": "Capitolo 17",
+      "volume": "2",
+      "last_updated": "1647844991",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LtWyqqw"
+      }
+    },
+    "18": {
+      "title": "Capitolo 18",
+      "volume": "3",
+      "last_updated": "1647845125",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/tVJOBCx"
+      }
+    },
+    "19": {
+      "title": "Capitolo 19",
+      "volume": "3",
+      "last_updated": "1647845351",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Wa01zcj"
+      }
+    },
+    "20": {
+      "title": "Capitolo 20",
+      "volume": "3",
+      "last_updated": "1647845435",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/TQIlxMf"
+      }
+    },
     "01": {
       "title": "Capitolo 1",
       "volume": "1",
       "last_updated": "1647770261",
       "groups": {
         "": "/proxy/api/imgur/chapter/VhHJSEs"
+      }
+    },
+    "02": {
+      "title": "Capitolo 2",
+      "volume": "1",
+      "last_updated": "1647837653",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/RTJqE1b"
+      }
+    },
+    "03": {
+      "title": "Capitolo 3",
+      "volume": "1",
+      "last_updated": "1647837669",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/pyrLkqa"
+      }
+    },
+    "04": {
+      "title": "Capitolo 4",
+      "volume": "1",
+      "last_updated": "1647838336",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/xTKyeKf"
+      }
+    },
+    "05": {
+      "title": "Capitolo 5",
+      "volume": "1",
+      "last_updated": "1647838695",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ADR3sxJ"
+      }
+    },
+    "06": {
+      "title": "Capitolo 6",
+      "volume": "1",
+      "last_updated": "1647842540",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/muUFPLY"
+      }
+    },
+    "07": {
+      "title": "Capitolo 7",
+      "volume": "1",
+      "last_updated": "1647842596",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9BpaHQX"
+      }
+    },
+    "08": {
+      "title": "Capitolo 8",
+      "volume": "2",
+      "last_updated": "1647842709",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fdNgzbK"
+      }
+    },
+    "09": {
+      "title": "Capitolo 2",
+      "volume": "2",
+      "last_updated": "1647843144",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ubEBvXN"
       }
     }
   }
