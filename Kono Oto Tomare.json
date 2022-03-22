@@ -4,5 +4,14 @@
   "artist": "SAKURA Amyuu",
   "author": "SAKURA Amyuu",
   "cover": "https://uploads.mangadex.org/covers/df9be021-ff37-419e-ba6e-dda3e28eb763/9e4cd7ef-ad5d-459f-a8ef-d239c01d1586.jpg",
-  "chapters": {}
+  "chapters": {
+    "01": {
+      "title": "Il nuovo membro",
+      "volume": "1",
+      "last_updated": "1647959263",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/h476g6y"
+      }
+    }
+  }
 }
