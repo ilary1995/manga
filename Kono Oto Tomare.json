@@ -36,6 +36,46 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/ew7Lr3K"
       }
+    },
+    "05": {
+      "title": "Una cosa irragiungibile",
+      "volume": "2",
+      "last_updated": "1648112692",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/de7piuF"
+      }
+    },
+    "06": {
+      "title": "Il primo eco",
+      "volume": "2",
+      "last_updated": "1648113044",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/8kRhk3G"
+      }
+    },
+    "07": {
+      "title": "Varie emozioni",
+      "volume": "2",
+      "last_updated": "1648114179",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/FIOZrn6"
+      }
+    },
+    "08": {
+      "title": "Facciamo risuonare la nostra musica",
+      "volume": "3",
+      "last_updated": "1648114888",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/V4KCwGA"
+      }
+    },
+    "09": {
+      "title": "Il suono è ovunque",
+      "volume": "3",
+      "last_updated": "1648115260",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/WTJgJLx"
+      }
     }
   }
 }
