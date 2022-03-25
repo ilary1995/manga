@@ -12,6 +12,54 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/orxPOWc"
       }
+    },
+    "02": {
+      "title": "Dicevo sul serio",
+      "volume": "1",
+      "last_updated": "1648192360",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/U7pPYv3"
+      }
+    },
+    "03": {
+      "title": "In piscina!",
+      "volume": "1",
+      "last_updated": "1648196257",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Qn9Hn1P"
+      }
+    },
+    "04": {
+      "title": "Non abbassare la guardia",
+      "volume": "1",
+      "last_updated": "1648212266",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6TAT2qs"
+      }
+    },
+    "05": {
+      "title": "Lascia fare a me",
+      "volume": "2",
+      "last_updated": "1648212714",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/4oRbiN8"
+      }
+    },
+    "06": {
+      "title": "Ti porto ad un appuntamento",
+      "volume": "2",
+      "last_updated": "1648212885",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jQgyXo7"
+      }
+    },
+    "07": {
+      "title": "A nessun altro",
+      "volume": "2",
+      "last_updated": "1648213073",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/oXIRvxL"
+      }
     }
   }
 }
