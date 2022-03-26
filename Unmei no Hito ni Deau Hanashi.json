@@ -7,7 +7,7 @@
   "chapters": {
     "01": {
       "title": "Capitolo 1",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1648138156",
       "groups": {
         "": "/proxy/api/imgur/chapter/lJBhfET"
@@ -15,7 +15,7 @@
     },
     "02": {
       "title": "Capitolo 2",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1648138730",
       "groups": {
         "": "/proxy/api/imgur/chapter/RF9YC1m"
@@ -23,7 +23,7 @@
     },
     "03": {
       "title": "Capitolo 3",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1648138952",
       "groups": {
         "": "/proxy/api/imgur/chapter/Wp6cMjb"
@@ -31,7 +31,7 @@
     },
     "04": {
       "title": "Capitolo 4",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1648139143",
       "groups": {
         "": "/proxy/api/imgur/chapter/cmojaMi"
@@ -39,7 +39,7 @@
     },
     "05": {
       "title": "Capitolo 5",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1648139366",
       "groups": {
         "": "/proxy/api/imgur/chapter/NhF8WAg"
