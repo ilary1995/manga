@@ -20,6 +20,78 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/RKHfPlX"
       }
+    },
+    "3": {
+      "title": "03-Abitanti",
+      "volume": "",
+      "last_updated": "1651500657",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9WbuTm3"
+      }
+    },
+    "4": {
+      "title": "04-Mondo Sotterraneo",
+      "volume": "",
+      "last_updated": "1651501908",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/FlKB0Kj"
+      }
+    },
+    "5": {
+      "title": "05-Interpersonale",
+      "volume": "",
+      "last_updated": "1651502420",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/JZucH8W"
+      }
+    },
+    "6": {
+      "title": "06-Una \"Grande\" lotta",
+      "volume": "",
+      "last_updated": "1651502885",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/lW8ij63"
+      }
+    },
+    "7": {
+      "title": "07-Il quartier generale dei custodi",
+      "volume": "",
+      "last_updated": "1651504051",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Jkpmr4w"
+      }
+    },
+    "8": {
+      "title": "08-Osservare sul posto di lavoro",
+      "volume": "",
+      "last_updated": "1651504630",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/YBvauWn"
+      }
+    },
+    "9": {
+      "title": "09-Via",
+      "volume": "",
+      "last_updated": "1651505030",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/I1IukD2"
+      }
+    },
+    "10": {
+      "title": "10-Imminente",
+      "volume": "",
+      "last_updated": "1651505566",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/1HItYsY"
+      }
+    },
+    "11": {
+      "title": "11-Avvicinarsi",
+      "volume": "",
+      "last_updated": "1651505865",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/kweaWzd"
+      }
     }
   }
 }
