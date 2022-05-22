@@ -4,5 +4,38 @@
   "artist": "MORISHITA Suu",
   "author": "MORISHITA Suu",
   "cover": "https://uploads.mangadex.org/covers/11bfa371-f53f-42b7-8213-94b1323b02b6/6912977f-724f-4660-a790-43fe448b95af.jpg",
-  "chapters": {}
+  "chapters": {
+    "01": {
+      "title": "Il mondo di Yuki",
+      "volume": "1",
+      "last_updated": "1653219568",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/We7rI3U"
+      }
+    },
+    "02": {
+      "title": "Verso l'amore",
+      "volume": "1",
+      "last_updated": "1653220489",
+      "groups": {
+        "": "https://imgur.com/a/6BjdRZ5"
+      }
+    },
+    "03": {
+      "title": "Invisibile",
+      "volume": "1",
+      "last_updated": "1653221157",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/rmjhjzQ"
+      }
+    },
+    "04": {
+      "title": "Di più",
+      "volume": "1",
+      "last_updated": "1653221753",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/kZWmNMO"
+      }
+    }
+  }
 }
