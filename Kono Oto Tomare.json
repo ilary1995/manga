@@ -127,7 +127,7 @@
     },
     "25": {
       "title": "Decisione",
-      "volume": "6",
+      "volume": "7",
       "last_updated": "1653399148",
       "groups": {
         "": "/proxy/api/imgur/chapter/LJdhzi7"
@@ -135,7 +135,7 @@
     },
     "26": {
       "title": "Kuon",
-      "volume": "6",
+      "volume": "7",
       "last_updated": "1653402082",
       "groups": {
         "": "/proxy/api/imgur/chapter/pWdY56V"
@@ -143,10 +143,18 @@
     },
     "27": {
       "title": "Il suono della luce",
-      "volume": "6",
+      "volume": "7",
       "last_updated": "1653402992",
       "groups": {
         "": "/proxy/api/imgur/chapter/2nkdcLz"
+      }
+    },
+    "28": {
+      "title": "Un passo avanti",
+      "volume": "8",
+      "last_updated": "1653404376",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/YqRRYnq"
       }
     },
     "01": {
