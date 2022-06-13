@@ -5,6 +5,22 @@
   "author": "KANESHIRO Muneyuki",
   "cover": "https://mangadex.org/covers/4141c5dc-c525-4df5-afd7-cc7d192a832f/582a43f9-43c4-4768-a0f2-740379db2519.jpg",
   "chapters": {
+    "10": {
+      "title": "Tattica del \"sarò il prossimo 9\"!",
+      "volume": "2",
+      "last_updated": "1655102939",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Bq4rp8n"
+      }
+    },
+    "11": {
+      "title": "Premonizione e intuizione",
+      "volume": "2",
+      "last_updated": "1655103198",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/7CZhDuL"
+      }
+    },
     "01": {
       "title": "Sogno",
       "volume": "1",
@@ -59,6 +75,22 @@
       "last_updated": "1655102028",
       "groups": {
         "": "/proxy/api/imgur/chapter/ZZQhLtU"
+      }
+    },
+    "08": {
+      "title": "Messaggio",
+      "volume": "2",
+      "last_updated": "1655102625",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/l6wRO7L"
+      }
+    },
+    "09": {
+      "title": "Supereroe",
+      "volume": "2",
+      "last_updated": "1655102641",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/8iFxppg"
       }
     }
   }
