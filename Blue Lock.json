@@ -36,6 +36,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/HNnkTYK"
       }
+    },
+    "05": {
+      "title": "Ripartire dalle basi",
+      "volume": "2",
+      "last_updated": "1655101580",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Ez5WVf0"
+      }
+    },
+    "06": {
+      "title": "Fondamenta",
+      "volume": "2",
+      "last_updated": "1655101660",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/i1ZVidg"
+      }
+    },
+    "07": {
+      "title": "Incontriamoci davanti alla porta!",
+      "volume": "2",
+      "last_updated": "1655102028",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ZZQhLtU"
+      }
     }
   }
 }
