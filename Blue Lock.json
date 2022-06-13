@@ -4,5 +4,14 @@
   "artist": "NOMURA Yusuke",
   "author": "KANESHIRO Muneyuki",
   "cover": "https://mangadex.org/covers/4141c5dc-c525-4df5-afd7-cc7d192a832f/582a43f9-43c4-4768-a0f2-740379db2519.jpg",
-  "chapters": {}
+  "chapters": {
+    "01": {
+      "title": "Sogno",
+      "volume": "1",
+      "last_updated": "1655098486",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Y8yzJdq"
+      }
+    }
+  }
 }
