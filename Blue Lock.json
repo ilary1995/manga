@@ -12,6 +12,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/Y8yzJdq"
       }
+    },
+    "02": {
+      "title": "Trasferimento",
+      "volume": "1",
+      "last_updated": "1655098580",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/7ViNI8G"
+      }
+    },
+    "03": {
+      "title": "Mostro",
+      "volume": "1",
+      "last_updated": "1655099796",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/C0OTByl"
+      }
+    },
+    "04": {
+      "title": "Adesso o mai più",
+      "volume": "1",
+      "last_updated": "1655100983",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/HNnkTYK"
+      }
     }
   }
 }
