@@ -181,6 +181,78 @@
         "": "/proxy/api/imgur/chapter/MTzMACH"
       }
     },
+    "32": {
+      "title": "Impeto",
+      "volume": "5",
+      "last_updated": "1655533057",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/3lAN6sv"
+      }
+    },
+    "33": {
+      "title": "Attacco a catena",
+      "volume": "5",
+      "last_updated": "1655537898",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/AkSzwGR"
+      }
+    },
+    "34": {
+      "title": "Di questo passo",
+      "volume": "5",
+      "last_updated": "1655543009",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/NbihEHP"
+      }
+    },
+    "35": {
+      "title": "Ultima occasione",
+      "volume": "5",
+      "last_updated": "1655543803",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Cpiw3Yr"
+      }
+    },
+    "36": {
+      "title": "Qui e ora",
+      "volume": "5",
+      "last_updated": "1655549663",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/IvGpRu0"
+      }
+    },
+    "37": {
+      "title": "L'ultimo pezzo",
+      "volume": "5",
+      "last_updated": "1655550053",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/7ainHkT"
+      }
+    },
+    "38": {
+      "title": "Di più",
+      "volume": "5",
+      "last_updated": "1655551034",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/bjlMolj"
+      }
+    },
+    "39": {
+      "title": "Fame",
+      "volume": "5",
+      "last_updated": "1655551391",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/sL8jaoj"
+      }
+    },
+    "40": {
+      "title": "Seconda selezione",
+      "volume": "5",
+      "last_updated": "1655551573",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/B2vYWMt"
+      }
+    },
     "01": {
       "title": "Sogno",
       "volume": "1",
