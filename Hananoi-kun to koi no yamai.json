@@ -5,6 +5,30 @@
   "author": "MORINO Megumi",
   "cover": "https://mangadex.org/covers/d110834c-0280-42fe-95d9-4f79e939ca0a/bcdfebd7-50a9-4e36-8d60-f6ad638dc654.jpg",
   "chapters": {
+    "10": {
+      "title": "Le prime gelosie",
+      "volume": "3",
+      "last_updated": "1656157916",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/bUzXSBf"
+      }
+    },
+    "11": {
+      "title": "Il nostro primo San Valentino",
+      "volume": "3",
+      "last_updated": "1656159952",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uJXqN7d"
+      }
+    },
+    "12": {
+      "title": "La mia prima confessione",
+      "volume": "3",
+      "last_updated": "1656160479",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2Ky0vlu"
+      }
+    },
     "01": {
       "title": "Piacere di conoscerti",
       "volume": "1",
@@ -35,6 +59,46 @@
       "last_updated": "1656155770",
       "groups": {
         "": "/proxy/api/imgur/chapter/THDFIEu"
+      }
+    },
+    "05": {
+      "title": "La nostra prima vista al tempio, a Capodanno",
+      "volume": "2",
+      "last_updated": "1656156056",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/sAjSOxv"
+      }
+    },
+    "06": {
+      "title": "Il primo lavoro part-time",
+      "volume": "2",
+      "last_updated": "1656156476",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/69eVYLl"
+      }
+    },
+    "07": {
+      "title": "La prima volta sul tetto",
+      "volume": "2",
+      "last_updated": "1656156632",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/WvEO5OJ"
+      }
+    },
+    "08": {
+      "title": "Il primo appuntamento",
+      "volume": "2",
+      "last_updated": "1656156823",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/10o8aOu"
+      }
+    },
+    "09": {
+      "title": "La prima notte a casa sua",
+      "volume": "3",
+      "last_updated": "1656157309",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/4oRKLMg"
       }
     }
   }
