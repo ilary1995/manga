@@ -5,6 +5,30 @@
   "author": "MURATA Mayu",
   "cover": "https://mangadex.org/covers/1814d0df-a4eb-44f2-acf1-28ffe3f55da8/b80ea9c0-86d6-4743-af98-4b23235c37d8.jpg",
   "chapters": {
+    "10": {
+      "title": "Capitolo 10",
+      "volume": "3",
+      "last_updated": "1656141210",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/eL5FBh4"
+      }
+    },
+    "11": {
+      "title": "Capitolo 11",
+      "volume": "3",
+      "last_updated": "1656141238",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/wXY9BR0"
+      }
+    },
+    "12": {
+      "title": "Capitolo 12",
+      "volume": "3",
+      "last_updated": "1656141583",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/pS0PpnA"
+      }
+    },
     "01": {
       "title": "Capitolo 1",
       "volume": "1",
@@ -67,6 +91,14 @@
       "last_updated": "1656140352",
       "groups": {
         "": "/proxy/api/imgur/chapter/XmajMJD"
+      }
+    },
+    "09": {
+      "title": "Capitolo 9",
+      "volume": "3",
+      "last_updated": "1656141222",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ImCsO52"
       }
     }
   }
