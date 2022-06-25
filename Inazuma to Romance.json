@@ -1,0 +1,49 @@
+{
+  "title": "Inazuma to Romance",
+  "description": "Despite living with her overprotective father, Sumire still wants to experience a lot of things—most importantly, a life-changing romance. Her second year of high school has just begun when she meets her new seatmate. The catch? He's a mysterious 20-something troublemaker, Ninomiya Leo. Will this be a start of a love that will change her world?",
+  "artist": "MIKIMOTO Rin",
+  "author": "MIKIMOTO Rin",
+  "cover": "https://mangadex.org/covers/a2d16852-2aa2-42aa-903c-e5ce5b990d65/3c71d442-9c1f-4c10-aed4-369f4196faff.jpg",
+  "chapters": {
+    "01": {
+      "title": "Capitolo 1",
+      "volume": "1",
+      "last_updated": "1656165381",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hCetgGb"
+      }
+    },
+    "01.5": {
+      "title": "Capitolo 1.5",
+      "volume": "1",
+      "last_updated": "1656165781",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Z9iQE8M"
+      }
+    },
+    "02": {
+      "title": "Capitolo 2",
+      "volume": "1",
+      "last_updated": "1656165794",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/wy0PHpL"
+      }
+    },
+    "03": {
+      "title": "Capitolo 3",
+      "volume": "1",
+      "last_updated": "1656166409",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/HAyu1z0"
+      }
+    },
+    "04": {
+      "title": "Capitolo 4",
+      "volume": "2",
+      "last_updated": "1656166848",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/8dKGH1U"
+      }
+    }
+  }
+}
