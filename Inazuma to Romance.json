@@ -5,6 +5,14 @@
   "author": "MIKIMOTO Rin",
   "cover": "https://mangadex.org/covers/a2d16852-2aa2-42aa-903c-e5ce5b990d65/3c71d442-9c1f-4c10-aed4-369f4196faff.jpg",
   "chapters": {
+    "10": {
+      "title": "Capitolo 10",
+      "volume": "4",
+      "last_updated": "1656168410",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/eFUnaPd"
+      }
+    },
     "01": {
       "title": "Capitolo 1",
       "volume": "1",
@@ -43,6 +51,62 @@
       "last_updated": "1656166848",
       "groups": {
         "": "/proxy/api/imgur/chapter/8dKGH1U"
+      }
+    },
+    "04.5": {
+      "title": "Capitolo 4.5",
+      "volume": "2",
+      "last_updated": "1656166972",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6isNNPY"
+      }
+    },
+    "05": {
+      "title": "Capitolo 5",
+      "volume": "2",
+      "last_updated": "1656167047",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/iRPiCJG"
+      }
+    },
+    "06": {
+      "title": "Capitolo 6",
+      "volume": "2",
+      "last_updated": "1656167353",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/mwcKFSQ"
+      }
+    },
+    "07": {
+      "title": "Capitolo 7",
+      "volume": "3",
+      "last_updated": "1656167724",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/8IRo31b"
+      }
+    },
+    "08": {
+      "title": "Capitolo 8",
+      "volume": "3",
+      "last_updated": "1656167941",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jUx0v1k"
+      }
+    },
+    "08.5": {
+      "title": "Capitolo 8.5",
+      "volume": "3",
+      "last_updated": "1656168044",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Ac9lmDE"
+      }
+    },
+    "09": {
+      "title": "Capitolo 9",
+      "volume": "3",
+      "last_updated": "1656168135",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/PkoGjnD"
       }
     }
   }
