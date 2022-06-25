@@ -4,5 +4,38 @@
   "artist": "Rikachi",
   "author": "Rikachi",
   "cover": "https://mangadex.org/covers/d02a12f4-aa9d-48eb-8d4d-0ff476df2d12/63dd28bd-8a90-4659-98f4-0f970ab92629.jpg",
-  "chapters": {}
+  "chapters": {
+    "01": {
+      "title": "Come il crimine ha avuto inizio",
+      "volume": "1",
+      "last_updated": "1656163466",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/zqJ5cZz"
+      }
+    },
+    "02": {
+      "title": "Falsa udienza",
+      "volume": "1",
+      "last_updated": "1656163790",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/rPIjWYj"
+      }
+    },
+    "03": {
+      "title": "Il segreto del principe dagli occhi dorati",
+      "volume": "1",
+      "last_updated": "1656164083",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/RLlOBGT"
+      }
+    },
+    "04": {
+      "title": "Il nome perduto",
+      "volume": "1",
+      "last_updated": "1656164240",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Z4Favsa"
+      }
+    }
+  }
 }
