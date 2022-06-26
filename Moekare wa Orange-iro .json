@@ -5,6 +5,62 @@
   "author": "TAMASHIMA Non",
   "cover": "https://comicvine.gamespot.com/a/uploads/scale_large/11135/111359134/8368938-myboyfriendinorange%2311%282021%29-page1.jpg",
   "chapters": {
+    "10": {
+      "title": "Nazionali, Parte 1",
+      "volume": "3",
+      "last_updated": "1656228106",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uGv2Dlj"
+      }
+    },
+    "11": {
+      "title": "Nazionali, Parte 2",
+      "volume": "3",
+      "last_updated": "1656228825",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ttbyTaq"
+      }
+    },
+    "12": {
+      "title": "Primo appuntamento!",
+      "volume": "3",
+      "last_updated": "1656233330",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/B82byZe"
+      }
+    },
+    "13": {
+      "title": "La forza di un bacio",
+      "volume": "4",
+      "last_updated": "1656233975",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/7H98Hb1"
+      }
+    },
+    "14": {
+      "title": "Crisi di Fiducia",
+      "volume": "4",
+      "last_updated": "1656234220",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/y5QEaec"
+      }
+    },
+    "15": {
+      "title": "Non perderò",
+      "volume": "4",
+      "last_updated": "1656234522",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/KPy9RSX"
+      }
+    },
+    "16": {
+      "title": "L'età in cui desideri crescere",
+      "volume": "4",
+      "last_updated": "1656235681",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/UNMi9Sd"
+      }
+    },
     "01": {
       "title": "Fuoco d'amore",
       "volume": "1",
@@ -35,6 +91,46 @@
       "last_updated": "1656225204",
       "groups": {
         "": "/proxy/api/imgur/chapter/xMGQlY4"
+      }
+    },
+    "05": {
+      "title": "Il vero eroe",
+      "volume": "2",
+      "last_updated": "1656225949",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/NHQ0n1c"
+      }
+    },
+    "06": {
+      "title": "L'improvviso avvicinamento di un compagno di classe!",
+      "volume": "2",
+      "last_updated": "1656226233",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/SEfrEM7"
+      }
+    },
+    "07": {
+      "title": "Sfiorare il passato l'uno dell'altro",
+      "volume": "2",
+      "last_updated": "1656226488",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ZJS76jh"
+      }
+    },
+    "08": {
+      "title": "Sentimenti fuori controllo",
+      "volume": "2",
+      "last_updated": "1656226688",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/OWlX4fl"
+      }
+    },
+    "09": {
+      "title": "Non riesco ad essere onesto",
+      "volume": "3",
+      "last_updated": "1656227335",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BoaHmy4"
       }
     }
   }
