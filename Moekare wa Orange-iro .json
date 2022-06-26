@@ -12,6 +12,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/UnkA1fk"
       }
+    },
+    "02": {
+      "title": "Voglio avvicinarmi",
+      "volume": "1",
+      "last_updated": "1656223436",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/AlBJ423"
+      }
+    },
+    "03": {
+      "title": "Anch'io voglio proteggerti",
+      "volume": "1",
+      "last_updated": "1656224583",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LoJPxST"
+      }
+    },
+    "04": {
+      "title": "La mia guida",
+      "volume": "1",
+      "last_updated": "1656225204",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/xMGQlY4"
+      }
     }
   }
 }
