@@ -1,0 +1,41 @@
+{
+  "title": "Hikaeme ni Itte mo, Kore wa ai",
+  "description": "One day, a serious student named Risa, saves a wounded delinquent on her way home from cram school. Now, that delinquent Zen is following her around!! What will she do?",
+  "artist": "FUJI Momo",
+  "author": "FUJI Momo",
+  "cover": "https://mangadex.org/covers/9e0c53c7-16bd-4f98-affe-de4408c4338e/4a7788b0-62ab-46dd-8d24-00d2f7bfbfd9.jpg",
+  "chapters": {
+    "01": {
+      "title": "Capitolo 1",
+      "volume": "",
+      "last_updated": "1656305813",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/HB6GkPs"
+      }
+    },
+    "02": {
+      "title": "Capitolo 2",
+      "volume": "",
+      "last_updated": "1656307926",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/mcxTtxu"
+      }
+    },
+    "03": {
+      "title": "Capitolo 3",
+      "volume": "",
+      "last_updated": "1656309276",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/AGFgoOC"
+      }
+    },
+    "04": {
+      "title": "Capitolo 4",
+      "volume": "",
+      "last_updated": "1656310880",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/FjoHT0D"
+      }
+    }
+  }
+}
