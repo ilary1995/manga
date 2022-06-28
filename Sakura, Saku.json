@@ -36,6 +36,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/fMbxi3e"
       }
+    },
+    "04": {
+      "title": "Capitolo 4",
+      "volume": "2",
+      "last_updated": "1656399261",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/XoIn6Wa"
+      }
+    },
+    "05": {
+      "title": "Capitolo 5",
+      "volume": "2",
+      "last_updated": "1656399464",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/GntQV4E"
+      }
     }
   }
 }
