@@ -1,0 +1,41 @@
+{
+  "title": "Sakura, Saku",
+  "description": "Saku, who knows she doesn’t stand out much, is looking for a boy named Sakura who helped her before. It might be fate that she meets Haruki Sakura again after entering high school...?!",
+  "artist": "SAKISAKA Io",
+  "author": "SAKISAKA Io",
+  "cover": "https://mangadex.org/covers/913f10b8-be4e-4195-a1cd-c52aa8d6a728/ee2d6835-5967-44b8-a311-52b3786e8e10.jpg",
+  "chapters": {
+    "01": {
+      "title": "Capitolo 1",
+      "volume": "1",
+      "last_updated": "1656398270",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/QaFbog2"
+      }
+    },
+    "00": {
+      "title": "Capitolo 0",
+      "volume": "1",
+      "last_updated": "1656398305",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/UIgTkOq"
+      }
+    },
+    "02": {
+      "title": "Capitolo 2",
+      "volume": "1",
+      "last_updated": "1656398774",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uaLRuBF"
+      }
+    },
+    "03": {
+      "title": "Capitolo 3",
+      "volume": "1",
+      "last_updated": "1656399186",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fMbxi3e"
+      }
+    }
+  }
+}
