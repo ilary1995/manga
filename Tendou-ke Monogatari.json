@@ -1,0 +1,41 @@
+{
+  "title": "Tendou-ke Monogatari",
+  "description": "A girl saves Houjou family's third daughter from drowning herself. The girl takes her place as Houjou Ran who shall become the Tendou family's bride but her deceit is seen through..?",
+  "artist": "SAITOU Ken",
+  "author": "SAITOU Ken",
+  "cover": "https://mangadex.org/covers/0621ecc9-c098-4660-ab53-4816a2cadd29/d6d21eec-d597-40fd-b88f-4d6882ccff91.jpg",
+  "chapters": {
+    "01": {
+      "title": "Capitolo 1",
+      "volume": "1",
+      "last_updated": "1656758276",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/khx0h5X"
+      }
+    },
+    "02": {
+      "title": "Capitolo 2",
+      "volume": "1",
+      "last_updated": "1656762994",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/rsW37YE"
+      }
+    },
+    "03": {
+      "title": "Capitolo 3",
+      "volume": "1",
+      "last_updated": "1656763209",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/z6fniRG"
+      }
+    },
+    "04": {
+      "title": "Capitolo 4",
+      "volume": "1",
+      "last_updated": "1656763339",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/NdvItLV"
+      }
+    }
+  }
+}
