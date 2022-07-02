@@ -5,6 +5,14 @@
   "author": "KOMORI Mikko",
   "cover": "https://mangadex.org/covers/de95e689-eb64-4e3a-b19f-2488976ce396/0c79be98-0aad-4951-a690-a65a15a31940.jpg",
   "chapters": {
+    "10": {
+      "title": "Capitolo 10",
+      "volume": "2",
+      "last_updated": "1656749476",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/rU3RAqH"
+      }
+    },
     "01": {
       "title": "Capitolo 1",
       "volume": "1",
@@ -43,6 +51,38 @@
       "last_updated": "1656657844",
       "groups": {
         "": "/proxy/api/imgur/chapter/v97POdY"
+      }
+    },
+    "06": {
+      "title": "Capitolo 6",
+      "volume": "2",
+      "last_updated": "1656747220",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/5d5GIaH"
+      }
+    },
+    "07": {
+      "title": "Capitolo 7",
+      "volume": "2",
+      "last_updated": "1656748282",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qkma3oU"
+      }
+    },
+    "08": {
+      "title": "Capitolo 8",
+      "volume": "2",
+      "last_updated": "1656748375",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/z3vV7uI"
+      }
+    },
+    "09": {
+      "title": "Capitolo 9",
+      "volume": "2",
+      "last_updated": "1656749265",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ecj5tFV"
       }
     }
   }
