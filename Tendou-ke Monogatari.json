@@ -5,6 +5,30 @@
   "author": "SAITOU Ken",
   "cover": "https://mangadex.org/covers/0621ecc9-c098-4660-ab53-4816a2cadd29/d6d21eec-d597-40fd-b88f-4d6882ccff91.jpg",
   "chapters": {
+    "10": {
+      "title": "Capitolo 10",
+      "volume": "3",
+      "last_updated": "1656774553",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/X92BVLL"
+      }
+    },
+    "11": {
+      "title": "Capitolo 11",
+      "volume": "3",
+      "last_updated": "1656774572",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/lK5z0BX"
+      }
+    },
+    "12": {
+      "title": "Capitolo ",
+      "volume": "3",
+      "last_updated": "1656775067",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/j3XC9tI"
+      }
+    },
     "01": {
       "title": "Capitolo 1",
       "volume": "1",
@@ -67,6 +91,14 @@
       "last_updated": "1656773657",
       "groups": {
         "": "/proxy/api/imgur/chapter/fJVz2S2"
+      }
+    },
+    "09": {
+      "title": "Capitolo 9",
+      "volume": "3",
+      "last_updated": "1656773846",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/FaPxCXL"
       }
     }
   }
