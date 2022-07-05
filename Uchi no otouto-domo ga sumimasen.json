@@ -5,6 +5,14 @@
   "author": "OZAKI Akira ",
   "cover": "https://mangadex.org/covers/b9c16c69-df27-4c6e-9676-8a260403758f/695600ed-8cba-47b0-b807-b0f0dd024b2c.jpg",
   "chapters": {
+    "10": {
+      "title": "Capitolo 10",
+      "volume": "3",
+      "last_updated": "1657001705",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ayESS74"
+      }
+    },
     "01": {
       "title": "Capitolo 1",
       "volume": "1",
@@ -67,6 +75,14 @@
       "last_updated": "1656917618",
       "groups": {
         "": "/proxy/api/imgur/chapter/JBlfliD"
+      }
+    },
+    "09": {
+      "title": "Capitolo 9",
+      "volume": "3",
+      "last_updated": "1657001684",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ox7wpoc"
       }
     }
   }
