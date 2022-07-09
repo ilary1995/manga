@@ -36,6 +36,46 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/9NVDjFR"
       }
+    },
+    "05": {
+      "title": "Capitolo 5",
+      "volume": "2",
+      "last_updated": "1657357504",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/5cnC2k7"
+      }
+    },
+    "06": {
+      "title": "Capitolo 6",
+      "volume": "2",
+      "last_updated": "1657357755",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/XmVIrgX"
+      }
+    },
+    "07": {
+      "title": "Capitolo 7",
+      "volume": "2",
+      "last_updated": "1657357974",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/TnY2emN"
+      }
+    },
+    "08": {
+      "title": "Capitolo 8",
+      "volume": "2",
+      "last_updated": "1657358305",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/5fQIShW"
+      }
+    },
+    "09": {
+      "title": "Capitolo 9",
+      "volume": "3",
+      "last_updated": "1657358316",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/CdXpG4G"
+      }
     }
   }
 }
