@@ -20,6 +20,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/SwDekcU"
       }
+    },
+    "03": {
+      "title": "Due gocce di lacrime",
+      "volume": "1",
+      "last_updated": "1658037936",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/SjzVrdE"
+      }
+    },
+    "04": {
+      "title": "La gabbia per uccelli e il giardino",
+      "volume": "1",
+      "last_updated": "1658038322",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/DX46Opq"
+      }
+    },
+    "05": {
+      "title": "La visita",
+      "volume": "1",
+      "last_updated": "1658039356",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/mHaEcEz"
+      }
     }
   }
 }
