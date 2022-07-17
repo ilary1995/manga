@@ -5,6 +5,22 @@
   "author": "KAWACHI Haruka",
   "cover": "https://mangadex.org/covers/f239fcd4-9f7f-4296-9e52-ee5a66a7e938/0d2b4688-7eb3-4db9-8fbb-c10150a20797.jpg",
   "chapters": {
+    "10": {
+      "title": "La porta per l'oscurità",
+      "volume": "2",
+      "last_updated": "1658041136",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ZMpf5PZ"
+      }
+    },
+    "11": {
+      "title": "Chiama il mio nome",
+      "volume": "2",
+      "last_updated": "1658041149",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/FSlctvC"
+      }
+    },
     "01": {
       "title": "La pioggia, nell'altro lato",
       "volume": "1",
@@ -43,6 +59,38 @@
       "last_updated": "1658039356",
       "groups": {
         "": "/proxy/api/imgur/chapter/mHaEcEz"
+      }
+    },
+    "06": {
+      "title": "Dov'è la collana",
+      "volume": "2",
+      "last_updated": "1658041060",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/DTlhBUm"
+      }
+    },
+    "07": {
+      "title": "Pensieri alla finestra",
+      "volume": "2",
+      "last_updated": "1658041091",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/vIRbhEV"
+      }
+    },
+    "08": {
+      "title": "La sostituta",
+      "volume": "2",
+      "last_updated": "1658041103",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/pVP6I10"
+      }
+    },
+    "09": {
+      "title": "Una giornata all'aperto",
+      "volume": "2",
+      "last_updated": "1658041125",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/NdGUMKK"
       }
     }
   }
