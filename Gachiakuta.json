@@ -92,6 +92,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/kweaWzd"
       }
+    },
+    "12": {
+      "title": "L'ombra del sottosuolo",
+      "volume": "2",
+      "last_updated": "1659185257",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fzWLrkt"
+      }
+    },
+    "13": {
+      "title": "Vandali",
+      "volume": "2",
+      "last_updated": "1659185405",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fRa6P05"
+      }
     }
   }
 }
