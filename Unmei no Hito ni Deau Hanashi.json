@@ -45,12 +45,20 @@
         "": "/proxy/api/imgur/chapter/NhF8WAg"
       }
     },
-    "06": {
+    "06.1": {
       "title": "Capitolo 6.1",
       "volume": "2",
-      "last_updated": "1653406649",
+      "last_updated": "1659183439",
       "groups": {
         "": "/proxy/api/imgur/chapter/1Q8aqOd"
+      }
+    },
+    "06.2": {
+      "title": "Capitolo 6.2",
+      "volume": "2",
+      "last_updated": "1659183450",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jVmA2Et"
       }
     }
   }
