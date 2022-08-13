@@ -108,6 +108,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/fRa6P05"
       }
+    },
+    "14": {
+      "title": "Arrivo",
+      "volume": "3",
+      "last_updated": "1660395443",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Sro8lM8"
+      }
+    },
+    "15": {
+      "title": "Origine",
+      "volume": "3",
+      "last_updated": "1660395624",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/dQYoTVQ"
+      }
     }
   }
 }
