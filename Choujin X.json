@@ -204,6 +204,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/YPhbFCw"
       }
+    },
+    "26.1": {
+      "title": "Estate sull'isola delle beste, Parte 1",
+      "volume": "4",
+      "last_updated": "1661584659",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2Y6D0mT"
+      }
+    },
+    "26.2": {
+      "title": "Estate sull'isola delle bestie, Parte 2",
+      "volume": "4",
+      "last_updated": "1661584786",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/r62S2dX"
+      }
     }
   }
 }
