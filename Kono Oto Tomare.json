@@ -725,6 +725,14 @@
         "": "/proxy/api/imgur/chapter/kq3NJP4"
       }
     },
+    "100": {
+      "title": "Lettera d'amore",
+      "volume": "24",
+      "last_updated": "1662276871",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/aAkjBcc"
+      }
+    },
     "01": {
       "title": "Il nuovo membro",
       "volume": "1",
@@ -795,6 +803,14 @@
       "last_updated": "1648115260",
       "groups": {
         "": "/proxy/api/imgur/chapter/WTJgJLx"
+      }
+    },
+    "99.5": {
+      "title": "blue x blue",
+      "volume": "24",
+      "last_updated": "1662276720",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/8YmdcQa"
       }
     }
   }
