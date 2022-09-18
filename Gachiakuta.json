@@ -132,6 +132,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/oIS66Q6"
       }
+    },
+    "17": {
+      "title": "Colpo dell'artiglio",
+      "volume": "3",
+      "last_updated": "1663488693",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/J8jIZQ0"
+      }
+    },
+    "18": {
+      "title": "Irrazionale",
+      "volume": "3",
+      "last_updated": "1663489034",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/NCvoV3e"
+      }
+    },
+    "19": {
+      "title": "Un duo assurdo",
+      "volume": "3",
+      "last_updated": "1663489585",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/MSsT3PW"
+      }
     }
   }
 }
