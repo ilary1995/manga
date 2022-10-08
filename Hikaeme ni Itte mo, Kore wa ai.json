@@ -5,6 +5,14 @@
   "author": "FUJI Momo",
   "cover": "https://pbs.twimg.com/media/FUuu11WWQAEYXtm?format=jpg&name=large",
   "chapters": {
+    "10": {
+      "title": "Capitolo 10",
+      "volume": "3",
+      "last_updated": "1665240607",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6i1FI1g"
+      }
+    },
     "01": {
       "title": "Capitolo 1",
       "volume": "1",
