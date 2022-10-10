@@ -156,6 +156,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/MSsT3PW"
       }
+    },
+    "20": {
+      "title": "Conclusione",
+      "volume": "3",
+      "last_updated": "1665385859",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/3vkj2Tv"
+      }
+    },
+    "21": {
+      "title": "Rancore e gratitudine",
+      "volume": "3",
+      "last_updated": "1665386414",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/bmzwVHP"
+      }
+    },
+    "22": {
+      "title": "Andare avanti",
+      "volume": "3",
+      "last_updated": "1665386911",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2AxtE0x"
+      }
     }
   }
 }
