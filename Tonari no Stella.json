@@ -7,7 +7,7 @@
   "chapters": {
     "01": {
       "title": "Capitolo 1",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1656753950",
       "groups": {
         "": "/proxy/api/imgur/chapter/kNDr1le"
@@ -15,10 +15,18 @@
     },
     "02": {
       "title": "Capitolo 2",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1656754318",
       "groups": {
         "": "/proxy/api/imgur/chapter/LZSOmHE"
+      }
+    },
+    "03": {
+      "title": "Capitolo 3",
+      "volume": "1",
+      "last_updated": "1665381232",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/VHllqjX"
       }
     }
   }
