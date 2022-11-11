@@ -204,6 +204,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/qOB6YYK"
       }
+    },
+    "26": {
+      "title": "La città dei graffiti",
+      "volume": "4",
+      "last_updated": "1668180372",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/kedfAMS"
+      }
+    },
+    "27": {
+      "title": "Ciò che vale tramandare",
+      "volume": "4",
+      "last_updated": "1668180507",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/RwSppEG"
+      }
     }
   }
 }
