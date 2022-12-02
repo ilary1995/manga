@@ -5,6 +5,22 @@
   "author": "SAKISAKA Io",
   "cover": "https://pbs.twimg.com/media/FhwdOqVXwAIrb83?format=jpg&name=medium",
   "chapters": {
+    "10": {
+      "title": "Capitolo 10",
+      "volume": "3",
+      "last_updated": "1669987347",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/MWPbIsa"
+      }
+    },
+    "11": {
+      "title": "Capitolo 11",
+      "volume": "3",
+      "last_updated": "1669988040",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/rX5HPss"
+      }
+    },
     "01": {
       "title": "Capitolo 1",
       "volume": "1",
@@ -67,6 +83,22 @@
       "last_updated": "1666935605",
       "groups": {
         "": "/proxy/api/imgur/chapter/Gd7fijq"
+      }
+    },
+    "08": {
+      "title": "Capitolo 8",
+      "volume": "3",
+      "last_updated": "1669985270",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Yv9L27L"
+      }
+    },
+    "09": {
+      "title": "Capitolo 9",
+      "volume": "3",
+      "last_updated": "1669985689",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/GCcwEfQ"
       }
     }
   }
