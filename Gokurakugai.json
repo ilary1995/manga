@@ -7,7 +7,7 @@
   "chapters": {
     "01": {
       "title": "Ufficio di Risoluzione dei Problemi di Gokurakugai",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1657954167",
       "groups": {
         "": "/proxy/api/imgur/chapter/4w4IlgU"
@@ -15,7 +15,7 @@
     },
     "02": {
       "title": "Casa",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1660393123",
       "groups": {
         "": "/proxy/api/imgur/chapter/XdDpFrS"
@@ -23,10 +23,18 @@
     },
     "03": {
       "title": "Fallimento",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1663490995",
       "groups": {
         "": "/proxy/api/imgur/chapter/WZCLkQJ"
+      }
+    },
+    "04": {
+      "title": "Beata ignoranza",
+      "volume": "2",
+      "last_updated": "1670505803",
+      "groups": {
+        "https://imgur.com/a/E9vIxj6": ""
       }
     }
   }
