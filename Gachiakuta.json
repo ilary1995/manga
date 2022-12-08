@@ -220,6 +220,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/RwSppEG"
       }
+    },
+    "28": {
+      "title": "Disegno e raccolta",
+      "volume": "4",
+      "last_updated": "1670514656",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/kg9pOzv"
+      }
+    },
+    "29": {
+      "title": "Penta, l'area proibita desertica",
+      "volume": "4",
+      "last_updated": "1670514937",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/dlbcooK"
+      }
+    },
+    "30": {
+      "title": "Dorurugasun",
+      "volume": "4",
+      "last_updated": "1670515156",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/PkoLMc8"
+      }
     }
   }
 }
