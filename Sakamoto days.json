@@ -4,5 +4,62 @@
   "artist": "SUZUKI Yuuto",
   "author": "SUZUKI Yuuto",
   "cover": "https://mangadex.org/covers/9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0/7b2bb9db-9a78-405f-8079-c827f3682cca.jpg",
-  "chapters": {}
+  "chapters": {
+    "01": {
+      "title": "Il sicario leggendario",
+      "volume": "1",
+      "last_updated": "1670772850",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/24r3OKV"
+      }
+    },
+    "02": {
+      "title": "Le regole della famiglia Sakamoto",
+      "volume": "1",
+      "last_updated": "1670773122",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/A0G2fiX"
+      }
+    },
+    "03": {
+      "title": "L’Agente Nakase e l’Eroe Misterioso",
+      "volume": "1",
+      "last_updated": "1670773280",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/MGdOF8l"
+      }
+    },
+    "04": {
+      "title": "China Invasion!",
+      "volume": "1",
+      "last_updated": "1670773390",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/10TVdIy"
+      }
+    },
+    "05": {
+      "title": "VS. Son Hee e Bacho",
+      "volume": "1",
+      "last_updated": "1670773506",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LPyzLnH"
+      }
+    },
+    "06": {
+      "title": "Nagumo",
+      "volume": "1",
+      "last_updated": "1670773624",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/RiUwPRx"
+      }
+    },
+    "07": {
+      "title": "Benvenuti al Sugar Park",
+      "volume": "1",
+      "last_updated": "1670773740",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6BJWPnd"
+      }
+    }
+  }
 }
