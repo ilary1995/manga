@@ -5,6 +5,54 @@
   "author": "SUZUKI Yuuto",
   "cover": "https://mangadex.org/covers/9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0/7b2bb9db-9a78-405f-8079-c827f3682cca.jpg",
   "chapters": {
+    "10": {
+      "title": "Hard-boiled",
+      "volume": "2",
+      "last_updated": "1670774118",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uH2rHJ9"
+      }
+    },
+    "11": {
+      "title": "Sakamoto VS Boiled",
+      "volume": "2",
+      "last_updated": "1670774201",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/U2Y5xSJ"
+      }
+    },
+    "12": {
+      "title": "La fonte della forza",
+      "volume": "2",
+      "last_updated": "1670774298",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/F7LVeLB"
+      }
+    },
+    "13": {
+      "title": "Video noleggio",
+      "volume": "2",
+      "last_updated": "1670774379",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/RVI3VWt"
+      }
+    },
+    "14": {
+      "title": "Missione Stealth",
+      "volume": "2",
+      "last_updated": "1670774478",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2SuYGBA"
+      }
+    },
+    "15": {
+      "title": "Iniziazione",
+      "volume": "2",
+      "last_updated": "1670774588",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BUX8dy5"
+      }
+    },
     "01": {
       "title": "Il sicario leggendario",
       "volume": "1",
@@ -59,6 +107,22 @@
       "last_updated": "1670773740",
       "groups": {
         "": "/proxy/api/imgur/chapter/6BJWPnd"
+      }
+    },
+    "08": {
+      "title": "SHOWTIME",
+      "volume": "2",
+      "last_updated": "1670773852",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/nL5BqAz"
+      }
+    },
+    "09": {
+      "title": "Boiled e Obiguro",
+      "volume": "2",
+      "last_updated": "1670774005",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/u38xLse"
       }
     }
   }
