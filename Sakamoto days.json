@@ -52,6 +52,78 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/GaYASgK"
       }
+    },
+    "41": {
+      "title": "Come vivere",
+      "volume": "5",
+      "last_updated": "1670832186",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/S61b6IP"
+      }
+    },
+    "42": {
+      "title": "Solo Dessert",
+      "volume": "5",
+      "last_updated": "1670832263",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fUoINS4"
+      }
+    },
+    "43": {
+      "title": "Ti Amo",
+      "volume": "5",
+      "last_updated": "1670832355",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/7YMsLTk"
+      }
+    },
+    "44": {
+      "title": "Tutti i modi",
+      "volume": "6",
+      "last_updated": "1670832433",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/VtnM7uN"
+      }
+    },
+    "45": {
+      "title": "Feroce attacco",
+      "volume": "6",
+      "last_updated": "1670832543",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Cq4bsEh"
+      }
+    },
+    "46": {
+      "title": "Sfortuna",
+      "volume": "6",
+      "last_updated": "1670832625",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/R4femKh"
+      }
+    },
+    "47": {
+      "title": "Salire",
+      "volume": "6",
+      "last_updated": "1670832728",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/JAowahe"
+      }
+    },
+    "48": {
+      "title": "Il filo del cuore",
+      "volume": "6",
+      "last_updated": "1670832803",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ilfKkMy"
+      }
+    },
+    "49": {
+      "title": "Gira e rigira la torre",
+      "volume": "6",
+      "last_updated": "1670832958",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/E6SXsQ2"
+      }
     }
   }
 }
