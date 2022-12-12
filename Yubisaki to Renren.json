@@ -5,30 +5,6 @@
   "author": "MORISHITA Suu",
   "cover": "https://www.manga-news.com/public/images/vols/Yubisaki-to-Renren-7-jp.jpg",
   "chapters": {
-    "10": {
-      "title": "21 Febbraio",
-      "volume": "3",
-      "last_updated": "1653226066",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/LSdx108"
-      }
-    },
-    "11": {
-      "title": "Lontano e vicino",
-      "volume": "3",
-      "last_updated": "1653227003",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/OTLAvVk"
-      }
-    },
-    "12": {
-      "title": "Ritorno a casa",
-      "volume": "3",
-      "last_updated": "1653227397",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/n3Yvr0D"
-      }
-    },
     "13": {
       "title": "Lascia che ti presenti la mia ragazza",
       "volume": "4",
@@ -163,46 +139,6 @@
       "last_updated": "1666514743",
       "groups": {
         "": "/proxy/api/imgur/chapter/s3YhS3Q"
-      }
-    },
-    "05": {
-      "title": "Qualcuno sta pensando a qualcuno",
-      "volume": "2",
-      "last_updated": "1653222803",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/4bJPc6R"
-      }
-    },
-    "06": {
-      "title": "Voce e lunghezza d'onda",
-      "volume": "2",
-      "last_updated": "1653222823",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/4wp1lKL"
-      }
-    },
-    "07": {
-      "title": "Voglio farti vedere e voglio che tu veda",
-      "volume": "2",
-      "last_updated": "1653223237",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/kYRPLJp"
-      }
-    },
-    "08": {
-      "title": "Risposta",
-      "volume": "2",
-      "last_updated": "1653225116",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/eGcfDZv"
-      }
-    },
-    "09": {
-      "title": "Voglio guardarla per tutta la mia vita",
-      "volume": "3",
-      "last_updated": "1653225658",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/aDdMdaL"
       }
     }
   }
