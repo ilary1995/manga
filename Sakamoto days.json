@@ -124,6 +124,78 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/E6SXsQ2"
       }
+    },
+    "50": {
+      "title": "Bicicletta",
+      "volume": "6",
+      "last_updated": "1670834652",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/RPggmhV"
+      }
+    },
+    "51": {
+      "title": "Parata",
+      "volume": "6",
+      "last_updated": "1670834713",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/liVtcD8"
+      }
+    },
+    "52": {
+      "title": "Taglia e Balla",
+      "volume": "6",
+      "last_updated": "1670835037",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jdeoAox"
+      }
+    },
+    "53": {
+      "title": "Nessuna possibilità",
+      "volume": "7",
+      "last_updated": "1670835126",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qWz7cXF"
+      }
+    },
+    "54": {
+      "title": "Me ne occupo io",
+      "volume": "7",
+      "last_updated": "1670835587",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jizYdRl"
+      }
+    },
+    "55": {
+      "title": "Pausa",
+      "volume": "7",
+      "last_updated": "1670835787",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/oyi2M82"
+      }
+    },
+    "56": {
+      "title": "AAG",
+      "volume": "7",
+      "last_updated": "1670835957",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qRQgc97"
+      }
+    },
+    "57": {
+      "title": "Buon viaggio",
+      "volume": "7",
+      "last_updated": "1670836039",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/zquT6Lg"
+      }
+    },
+    "58": {
+      "title": "Principianti",
+      "volume": "7",
+      "last_updated": "1670836152",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/mthDMVD"
+      }
     }
   }
 }
