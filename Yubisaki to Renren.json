@@ -140,6 +140,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/s3YhS3Q"
       }
+    },
+    "30": {
+      "title": "Suona il campanello con gusto",
+      "volume": "8",
+      "last_updated": "1671110771",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/y6IzpWS"
+      }
+    },
+    "31": {
+      "title": "Bagno publico e sorgenti termali",
+      "volume": "8",
+      "last_updated": "1671110931",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/oAhOA84"
+      }
     }
   }
 }
