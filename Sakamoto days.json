@@ -514,7 +514,15 @@
       "volume": "12",
       "last_updated": "1670851879",
       "groups": {
-        "https://imgur.com/a/x3gzcEC": ""
+        "": "/proxy/api/imgur/chapter/x3gzcEC"
+      }
+    },
+    "99": {
+      "title": "Quel giorno",
+      "volume": "12",
+      "last_updated": "1671192624",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/UI1duaR"
       }
     }
   }
