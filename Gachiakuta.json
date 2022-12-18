@@ -244,6 +244,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/PkoLMc8"
       }
+    },
+    "31": {
+      "title": "Visitatore",
+      "volume": "4",
+      "last_updated": "1671373940",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/WaD3Ckh"
+      }
+    },
+    "32": {
+      "title": "L'ospitalità di Amo",
+      "volume": "5",
+      "last_updated": "1671374054",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LY1BHMd"
+      }
     }
   }
 }
