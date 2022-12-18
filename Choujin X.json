@@ -149,6 +149,14 @@
         "": "/proxy/api/imgur/chapter/vIoUCD1"
       }
     },
+    "29": {
+      "title": "Black show introduction",
+      "volume": "5",
+      "last_updated": "1671374944",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/TaVXR6d"
+      }
+    },
     "01": {
       "title": "Choujin X",
       "volume": "1",
@@ -235,6 +243,14 @@
       "last_updated": "1661584786",
       "groups": {
         "": "/proxy/api/imgur/chapter/r62S2dX"
+      }
+    },
+    "30.1": {
+      "title": "Chaosy - Parte 1",
+      "volume": "5",
+      "last_updated": "1671375109",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/xnmjSqa"
       }
     }
   }
