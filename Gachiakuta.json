@@ -260,6 +260,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/LY1BHMd"
       }
+    },
+    "33": {
+      "title": "Illusione",
+      "volume": "5",
+      "last_updated": "1673876364",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/pvRaiR5"
+      }
+    },
+    "34": {
+      "title": "Odore nostalgico",
+      "volume": "5",
+      "last_updated": "1673876470",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/xNZcEZ9"
+      }
+    },
+    "35": {
+      "title": "Momenti felici",
+      "volume": "5",
+      "last_updated": "1673876602",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Vu1txWS"
+      }
     }
   }
 }
