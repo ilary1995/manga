@@ -252,6 +252,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/xnmjSqa"
       }
+    },
+    "30.2": {
+      "title": "Chaosy - Parte 2",
+      "volume": "5",
+      "last_updated": "1673877213",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/OyTOtYx"
+      }
+    },
+    "31.1": {
+      "title": "Spiral/Rasen, Parte 1",
+      "volume": "5",
+      "last_updated": "1673877410",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/x5MUpF9"
+      }
+    },
+    "31.2": {
+      "title": "Spiral/Rasen, Parte 2",
+      "volume": "5",
+      "last_updated": "1673877509",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/DK27yFo"
+      }
     }
   }
 }
