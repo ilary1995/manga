@@ -308,6 +308,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/YxXJlGf"
       }
+    },
+    "39": {
+      "title": "Ciò che è giusto",
+      "volume": "5",
+      "last_updated": "1676888537",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/TYnJYVY"
+      }
+    },
+    "40": {
+      "title": "L'abisso crescente",
+      "volume": "5",
+      "last_updated": "1676888736",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/XWdEMxr"
+      }
     }
   }
 }
