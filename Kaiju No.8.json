@@ -220,6 +220,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/FRjj6ts"
       }
+    },
+    "79": {
+      "title": "Capitolo 79",
+      "volume": "10",
+      "last_updated": "1676892833",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/PWGAUfQ"
+      }
+    },
+    "80": {
+      "title": "Capitolo 80",
+      "volume": "10",
+      "last_updated": "1676893014",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/PWGAUfQ"
+      }
     }
   }
 }
