@@ -5,30 +5,6 @@
   "author": "YAMAMORI Mika",
   "cover": "https://pbs.twimg.com/media/FgjLjNQWQAAuuTy?format=jpg&name=medium",
   "chapters": {
-    "10": {
-      "title": "Capitolo 10",
-      "volume": "3",
-      "last_updated": "1653307730",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/CKOCjmI"
-      }
-    },
-    "11": {
-      "title": "Capitolo 11",
-      "volume": "3",
-      "last_updated": "1653309240",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/dn1KUnk"
-      }
-    },
-    "12": {
-      "title": "Capitolo 12",
-      "volume": "3",
-      "last_updated": "1653311009",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/EQCzHpk"
-      }
-    },
     "13": {
       "title": "Capitolo 13",
       "volume": "4",
@@ -99,14 +75,6 @@
       "last_updated": "1671372639",
       "groups": {
         "": "/proxy/api/imgur/chapter/eDreImE"
-      }
-    },
-    "09": {
-      "title": "Capitolo 9",
-      "volume": "3",
-      "last_updated": "1653306266",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/wJf97O4"
       }
     },
     "17.5": {
