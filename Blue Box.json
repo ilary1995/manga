@@ -5,54 +5,6 @@
   "author": "MIURA Kouji",
   "cover": "https://pbs.twimg.com/media/FnTDyl-XEAMBJwW?format=jpg&name=large",
   "chapters": {
-    "10": {
-      "title": "Il giorno prima",
-      "volume": "2",
-      "last_updated": "1647318932",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/B4aUGnK"
-      }
-    },
-    "11": {
-      "title": "I Preliminari dei Regionali",
-      "volume": "2",
-      "last_updated": "1647319033",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/IBO6TR1"
-      }
-    },
-    "12": {
-      "title": "Se dovesse vincere",
-      "volume": "2",
-      "last_updated": "1647319051",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/L6dqHic"
-      }
-    },
-    "13": {
-      "title": "Appuntamento",
-      "volume": "2",
-      "last_updated": "1647319069",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/Cu32XqR"
-      }
-    },
-    "14": {
-      "title": "Acquario",
-      "volume": "2",
-      "last_updated": "1647319092",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/Uu9Djdq"
-      }
-    },
-    "15": {
-      "title": "Una ragazza normale",
-      "volume": "2",
-      "last_updated": "1647319108",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/dpYAyTa"
-      }
-    },
     "16": {
       "title": "Spiriti affini",
       "volume": "2",
@@ -627,78 +579,6 @@
       "last_updated": "1676887799",
       "groups": {
         "": "/proxy/api/imgur/chapter/Y3P77Nw"
-      }
-    },
-    "01": {
-      "title": "Chinatsu-senpai",
-      "volume": "1",
-      "last_updated": "1647318411",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/nTAPtEQ"
-      }
-    },
-    "02": {
-      "title": "Devi andare ai Nazionali",
-      "volume": "1",
-      "last_updated": "1647318428",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/ictrbOT"
-      }
-    },
-    "03": {
-      "title": "Fingere di non conoscersi",
-      "volume": "1",
-      "last_updated": "1647318737",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/d753tRU"
-      }
-    },
-    "04": {
-      "title": "Prescelta",
-      "volume": "1",
-      "last_updated": "1647318754",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/1jKgD0W"
-      }
-    },
-    "05": {
-      "title": "Come la chiamo",
-      "volume": "1",
-      "last_updated": "1647318777",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/Qusp6zX"
-      }
-    },
-    "06": {
-      "title": "Almeno un passo",
-      "volume": "1",
-      "last_updated": "1647318804",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/4uw7mLC"
-      }
-    },
-    "07": {
-      "title": "Ce la farai",
-      "volume": "1",
-      "last_updated": "1647318867",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/rWJyx5r"
-      }
-    },
-    "08": {
-      "title": "Doppio",
-      "volume": "2",
-      "last_updated": "1647318893",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/AvaCdMv"
-      }
-    },
-    "09": {
-      "title": "Tute sportive",
-      "volume": "2",
-      "last_updated": "1647318920",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/wZmRF47"
       }
     }
   }
