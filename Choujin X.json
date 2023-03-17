@@ -284,6 +284,38 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/vuwO9ql"
       }
+    },
+    "32.2": {
+      "title": "Power of Mourning, Part 2",
+      "volume": "5",
+      "last_updated": "1679036775",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/1SVfXAy"
+      }
+    },
+    "33.1": {
+      "title": "Zora, Part 1",
+      "volume": "5",
+      "last_updated": "1679036885",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/GRKvSr5"
+      }
+    },
+    "33.2": {
+      "title": "Zora, Part 2",
+      "volume": "5",
+      "last_updated": "1679036982",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/T9TdNdy"
+      }
+    },
+    "34.1": {
+      "title": "I got 2 know, Part 1",
+      "volume": "6",
+      "last_updated": "1679037166",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/nN5J4en"
+      }
     }
   }
 }
