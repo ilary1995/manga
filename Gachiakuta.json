@@ -324,6 +324,38 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/XWdEMxr"
       }
+    },
+    "41": {
+      "title": "Discesa tra gli scarti",
+      "volume": "6",
+      "last_updated": "1679036165",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/rhdqefG"
+      }
+    },
+    "42": {
+      "title": "Discesa tra gli scarti (2)",
+      "volume": "6",
+      "last_updated": "1679036306",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/IQnRmCi"
+      }
+    },
+    "43": {
+      "title": "Raduno",
+      "volume": "6",
+      "last_updated": "1679036407",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/snxyaLg"
+      }
+    },
+    "44": {
+      "title": "Non dovete abbassare la guardia nella strada verso casa",
+      "volume": "6",
+      "last_updated": "1679036590",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/bC4otMM"
+      }
     }
   }
 }
