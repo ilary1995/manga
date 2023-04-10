@@ -356,6 +356,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/bC4otMM"
       }
+    },
+    "45": {
+      "title": "Contenimento dei parassiti",
+      "volume": "6",
+      "last_updated": "1681138444",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/lPPfKIU"
+      }
+    },
+    "46": {
+      "title": "La tempesta prima della tempesta",
+      "volume": "6",
+      "last_updated": "1681138977",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qRCOZpA"
+      }
+    },
+    "47": {
+      "title": "Boom",
+      "volume": "6",
+      "last_updated": "1681139510",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/EAhJLyJ"
+      }
     }
   }
 }
