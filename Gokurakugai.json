@@ -44,6 +44,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/dryJIqX"
       }
+    },
+    "06": {
+      "title": "Il desiderio di una giovane",
+      "volume": "2",
+      "last_updated": "1681137420",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/4FzenfE"
+      }
+    },
+    "07": {
+      "title": "Lamento",
+      "volume": "3",
+      "last_updated": "1681137475",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6D9a2Fs"
+      }
     }
   }
 }
