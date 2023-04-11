@@ -316,6 +316,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/nN5J4en"
       }
+    },
+    "34.2": {
+      "title": "I got 2 know, Part 2",
+      "volume": "6",
+      "last_updated": "1681186974",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/SSNV1oh"
+      }
+    },
+    "34.3": {
+      "title": "I got 2 know, Part 3",
+      "volume": "6",
+      "last_updated": "1681188666",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/mswTcSX"
+      }
+    },
+    "34.4": {
+      "title": "I got 2 know, Part 4",
+      "volume": "6",
+      "last_updated": "1681188762",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/QTDhWx3"
+      }
     }
   }
 }
