@@ -12,6 +12,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/rgHgt3F"
       }
+    },
+    "02": {
+      "title": "Tokyo City Esperion",
+      "volume": "1",
+      "last_updated": "1681191113",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Dhm3qVQ"
+      }
+    },
+    "03": {
+      "title": "Luce essenziale",
+      "volume": "1",
+      "last_updated": "1681192960",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Wt9ufjm"
+      }
     }
   }
 }
