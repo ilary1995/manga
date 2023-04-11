@@ -36,6 +36,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/K4jKESR"
       }
+    },
+    "05": {
+      "title": "Flash",
+      "volume": "1",
+      "last_updated": "1681201320",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/4bz6ffC"
+      }
+    },
+    "06": {
+      "title": "Giunco pensante",
+      "volume": "1",
+      "last_updated": "1681201383",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/wBu66Js"
+      }
     }
   }
 }
