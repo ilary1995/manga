@@ -4,54 +4,5 @@
   "artist": "YAMAMORI Mika",
   "author": "YAMAMORI Mika",
   "cover": "https://pbs.twimg.com/media/FgjLjNQWQAAuuTy?format=jpg&name=medium",
-  "chapters": {
-    "17": {
-      "title": "Capitolo 17",
-      "volume": "5",
-      "last_updated": "1656861866",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/DLRSVij"
-      }
-    },
-    "18": {
-      "title": "Capitolo 18",
-      "volume": "5",
-      "last_updated": "1659880066",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/E4TG9qJ"
-      }
-    },
-    "19": {
-      "title": "Capitolo 19",
-      "volume": "5",
-      "last_updated": "1671371855",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/HnV6WAO"
-      }
-    },
-    "20": {
-      "title": "Capitolo 20",
-      "volume": "5",
-      "last_updated": "1671372426",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/LrTHCAM"
-      }
-    },
-    "21": {
-      "title": "Capitolo 21",
-      "volume": "5",
-      "last_updated": "1671372639",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/eDreImE"
-      }
-    },
-    "17.5": {
-      "title": "Capitolo 17.5",
-      "volume": "5",
-      "last_updated": "1656862130",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/pzadbi6"
-      }
-    }
-  }
+  "chapters": {}
 }
