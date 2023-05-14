@@ -380,6 +380,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/EAhJLyJ"
       }
+    },
+    "48": {
+      "title": "Scontro",
+      "volume": "6",
+      "last_updated": "1684049391",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/5BQCpES"
+      }
+    },
+    "49": {
+      "title": "Alle strette",
+      "volume": "6",
+      "last_updated": "1684049590",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/l8ptGCa"
+      }
+    },
+    "50": {
+      "title": "Bollore e scarafaggi",
+      "volume": "7",
+      "last_updated": "1684049635",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/nTguHfV"
+      }
     }
   }
 }
