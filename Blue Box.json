@@ -556,6 +556,38 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/7PT9CpY"
       }
+    },
+    "95": {
+      "title": "È tornata",
+      "volume": "11",
+      "last_updated": "1684048437",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/APu9tw0"
+      }
+    },
+    "96": {
+      "title": "Vigilia di Natale",
+      "volume": "11",
+      "last_updated": "1684048548",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/nQL8Ciw"
+      }
+    },
+    "97": {
+      "title": "Stai avendo dei problemi?",
+      "volume": "11",
+      "last_updated": "1684048674",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/XyYRhVq"
+      }
+    },
+    "98": {
+      "title": "Fine anno",
+      "volume": "11",
+      "last_updated": "1684048844",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/v2xh8PJ"
+      }
     }
   }
 }
