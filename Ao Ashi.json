@@ -1525,6 +1525,14 @@
         "": "/proxy/api/imgur/chapter/cjsyRbx"
       }
     },
+    "200": {
+      "title": "L'ultimo latrato",
+      "volume": "20",
+      "last_updated": "1700488329",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/dBc3edi"
+      }
+    },
     "01": {
       "title": "Primo tocco",
       "volume": "1",
